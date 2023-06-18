@@ -1,6 +1,17 @@
 # MRHCard
 
-https://www.buymeacoffee.com/mobilefirst
+MRHCard is an awesome looking Credit Card input & validation control. Written in Swift 3.
+
+YOoo, Now MRHCard is on Swift 5.
+
+• Swift 5.0 (Xcode 11.0)*
+
+pod 'MFCard'
+
+Or you can choose version for Swift 4
+
+pod 'MFCard', '1.2.6'
+
 
 # MobileFirstApplications
 
