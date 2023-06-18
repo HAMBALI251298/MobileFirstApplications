@@ -94,6 +94,8 @@ myCard.showCardWithCardDetails(card: demoCard!)
 
 • MRHCard show - BlurStyle
 
+# Screenshots
+
 # Features
 
 • Card Validation Support
@@ -112,19 +114,23 @@ myCard.showCardWithCardDetails(card: demoCard!)
 
 • Easy to use
 
-# Contact
+# Contact Me And SosialMedia 
 
-• Linkedlin (HAMBALI) 
-• Facebook (Hambali)
-• Instagram (hambali6737)
-• telegram (@hambali251298)
-• Telpon (+6283128356342)
+• Linkedlin : (HAMBALI)
 
+• Facebook  : (Hambali)
 
+• Instagram : (hambali6737)
 
+• telegram  : (@hambali251298)
 
+• Telpon    : (+6283128356342)
 
+# Thanks
 
+• https://github.com/RC7770/CreditCardValidator
 
+• https://github.com/scalessec/Toast-Swift
 
+• Icon CreditCard : https://thenounproject.com/term/credit-card/490264/
 
