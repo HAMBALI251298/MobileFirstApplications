@@ -40,48 +40,85 @@ myCard.showCardWithCardDetails(card: demoCard!)
 
 # Supported Cards
 
-• #MasterCard
-• # Visa
-• # MESKTIKA
-• # BNI
-• # HCBC
-• # BCA
-• # Maestro 
-• # Mandiri 
-• # BRI
-• # BTN
-• # MUAMALAT
+• MasterCard
+
+• Visa
+
+• MESKTIKA
+
+• BNI
+
+• HCBC
+
+• BCA
+
+• Maestro
+ 
+• Mandiri
+ 
+• BRI
+
+• BTN
+
+• MUAMALAT
 
 # Customisation Options
 
 • Card Image
+
 • Background colour
+
 • Front Chrome colour (Front Card colour)
+
 • Front Chrome Alpha
+
 • Back Chrome Alpha
+
 • Back Card Magnetic Tap colour
+
 • All Label colour
+
 • TextField Customisation
+
 • Control Buttons
+
 • Corner Radius
+
 • Placeholders
+
 • Auto Dismiss
+
 • Flip on Done
+
 • Animation on CardType Change
+
 • MRHCard show - BlurStyle
 
 # Features
 
 • Card Validation Support
+
 • Present Card like alert
+
 • Swipe Gesture To Swipe Card front & back
+
 • Error Handing
+
 • Toast Messages for error handling
+
 • All Properties editable using IBDesignable
+
 • Animations
+
 • Easy to use
 
+# Contact
 
+• Linkedlin (HAMBALI) 
+• Facebook (Hambali)
+• Instagram (hambali6737)
+• telegram (@hambali251298)
+• Telpon (+6283128356342)
 
 
 
