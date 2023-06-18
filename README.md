@@ -40,17 +40,17 @@ myCard.showCardWithCardDetails(card: demoCard!)
 
 # Supported Cards
 
-• MasterCard
-• Visa
-• MESKTIKA
-• BNI
-• HCBC
-• BCA
-• Maestro 
-• Mandiri 
-• BRI
-• BTN
-• MUAMALAT
+# • MasterCard
+# • Visa
+# • MESKTIKA
+# • BNI
+# • HCBC
+# • BCA
+# • Maestro 
+# • Mandiri 
+# • BRI
+# • BTN
+# • MUAMALAT
 
 # Customisation Options
 
