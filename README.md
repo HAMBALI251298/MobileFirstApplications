@@ -38,6 +38,56 @@ myCard.toast = true
 let demoCard :Card? = Card(holderName: "HAMBALI", number:  "601301019835995", month: Month.Dec, year: "10/24", cvc: "718", paymentType: Card.PaymentType.bank.BRI, cardType: CardType.Discover, userId: 0)
 myCard.showCardWithCardDetails(card: demoCard!)
 
+# Supported Cards
+
+• MasterCard
+• Visa
+• MESKTIKA
+• BNI
+• HCBC
+• BCA
+• Maestro 
+• Mandiri 
+• BRI
+• BTN
+• MUAMALAT
+
+# Customisation Options
+
+• Card Image
+• Background colour
+• Front Chrome colour (Front Card colour)
+• Front Chrome Alpha
+• Back Chrome Alpha
+• Back Card Magnetic Tap colour
+• All Label colour
+• TextField Customisation
+• Control Buttons
+• Corner Radius
+• Placeholders
+• Auto Dismiss
+• Flip on Done
+• Animation on CardType Change
+• MRHCard show - BlurStyle
+
+# Features
+
+• Card Validation Support
+• Present Card like alert
+• Swipe Gesture To Swipe Card front & back
+• Error Handing
+• Toast Messages for error handling
+• All Properties editable using IBDesignable
+• Animations
+• Easy to use
+
+
+
+
+
+
+
+
 
 
 
