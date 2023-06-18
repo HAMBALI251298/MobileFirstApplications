@@ -31,11 +31,19 @@ print(error!)
 # Show Card with Details
 
 var myCard : MRHardView
+
 myCard  = MRHardView(withViewController: self)
+
 myCard.delegate = self
+
 myCard.autoDismiss = true
+
 myCard.toast = true
-let demoCard :Card? = Card(holderName: "HAMBALI", number:  "601301019835995", month: Month.Dec, year: "10/24", cvc: "718", paymentType: Card.PaymentType.bank.BRI, cardType: CardType.Discover, userId: 0)
+
+let demoCard :Card? = Card(holderName: "HAMBALI", number:  "601301019835995", month: Month.Dec, year: "10/24", cvc: "718",
+
+paymentType: Card.PaymentType.bank.BRI, cardType: CardType.Discover, userId: 0)
+
 myCard.showCardWithCardDetails(card: demoCard!)
 
 # Supported Cards
@@ -94,8 +102,6 @@ myCard.showCardWithCardDetails(card: demoCard!)
 
 • MRHCard show - BlurStyle
 
-# Screenshots
-
 # Features
 
 • Card Validation Support
@@ -125,12 +131,4 @@ myCard.showCardWithCardDetails(card: demoCard!)
 • telegram  : (@hambali251298)
 
 • Telpon    : (+6283128356342)
-
-# Thanks
-
-• https://github.com/RC7770/CreditCardValidator
-
-• https://github.com/scalessec/Toast-Swift
-
-• Icon CreditCard : https://thenounproject.com/term/credit-card/490264/
 
