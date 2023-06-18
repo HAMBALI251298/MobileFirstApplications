@@ -40,7 +40,7 @@ myCard.showCardWithCardDetails(card: demoCard!)
 
 # Supported Cards
 
-• # MasterCard
+• #MasterCard
 • # Visa
 • # MESKTIKA
 • # BNI
