@@ -25,8 +25,8 @@ Second Step - Add a delegate MFCardDelegate to your class & add two delegate met
 
 Third Step - Present a Card
 
-var myCard : MFCardView
-myCard  = MFCardView(withViewController: self)
+var myCard : MRHCardView
+myCard  = MRHCardView(withViewController: self)
 myCard.delegate = self
 myCard.autoDismiss = true
 myCard.toast = true
